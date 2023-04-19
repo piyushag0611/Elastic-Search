@@ -22,7 +22,7 @@ def elastic() :
             "port": 443,
             "scheme": "https",
             "user": "pg4e_5140058e0d",
-            "pass": "2306_721e4f52"}
+            "pass": "2307_e2d32038"}
 
 def readonly():
     return {"host": "pg.pg4e.com",
